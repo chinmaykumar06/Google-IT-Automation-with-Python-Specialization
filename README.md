@@ -8,5 +8,5 @@ and how to use Python to automate common system administration tasks. This cours
 problems, and apply automation at scale by using configuration management and the Cloud.
 
 
-<img src="google-it-automation-professional-certificate.png" width="300" >
+<img src="certificate/Google IT Automation with Python_page.jpg" width ="700">
 
