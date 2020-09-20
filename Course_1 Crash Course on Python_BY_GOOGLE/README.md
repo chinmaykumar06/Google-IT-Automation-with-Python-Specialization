@@ -5,9 +5,6 @@ No previous exposure to programming is needed. By the end of this course, you'll
 be able to write simple programs using Python; figure out how the building blocks of programming fit together; and combine all of this 
 knowledge to solve a complex programming problem. 
 
-We'll start off by diving into the basics of writing a computer program. Along the way, you’ll get hands-on experience with programming 
-concepts through interactive exercises and real-world 
-examples. You’ll quickly start to see how computers can perform a multitude of tasks — you just have to write code that tells them what to do.
 
 # **[FINAL PROJECT](https://github.com/chinmaykumar06/Google-IT-Automation-with-Python-Specialization/blob/master/Course_1%20Crash%20Course%20on%20Python_BY_GOOGLE/WEEK6/Final_Project.ipynb)**
 
