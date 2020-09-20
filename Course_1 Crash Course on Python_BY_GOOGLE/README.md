@@ -8,3 +8,10 @@ knowledge to solve a complex programming problem.
 We'll start off by diving into the basics of writing a computer program. Along the way, you’ll get hands-on experience with programming 
 concepts through interactive exercises and real-world 
 examples. You’ll quickly start to see how computers can perform a multitude of tasks — you just have to write code that tells them what to do.
+
+# **[FINAL PROJECT](https://github.com/chinmaykumar06/Google-IT-Automation-with-Python-Specialization/blob/master/Course_1%20Crash%20Course%20on%20Python_BY_GOOGLE/WEEK6/Final_Project.ipynb)**
+
+For this project, you'll create a "word cloud" from a text by writing a script. This script needs to process the text, remove punctuation, ignore case and words that do not contain all alphabets, count the frequencies, and ignore uninteresting or irrelevant words. A dictionary is the output of the calculate_frequencies function. The wordcloud module will then generate the image from your dictionary.
+
+
+
